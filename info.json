@@ -1,0 +1,23 @@
+{
+	"name": "Roshonia Brooks",
+	"website": "https://roshoniab.github.io/",
+	"linkedin": "https://www.linkedin.com/in/roshonia-brooks/",
+	"github": "roshoniab",
+	"email": "RoshoniaBrooks@gmail.com",
+    "resume": "https://drive.google.com/file/d/1v502YKHYZXwuIOPRolo3htgTkDoy_2UE/view?usp=sharing",
+    "location": ["Dallas,TX"],
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Node",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+        "Wordpress",
+        "Wix",
+        "Ruby",
+        "jQuery"
+	],
+    "softSkills": ["Empathy", "Adaptability", "Willingness to learn","Critical thinking"],
+    "education": ["Collin College : AS-Science (2021)", "General Assembly: Software Engineering Immersive Course (2020)"]
+}
